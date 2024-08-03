@@ -1,0 +1,58 @@
+{
+  "status": "ok",
+  "totalResults": 36,
+  "articles": [
+    {
+      "source": {
+        "id": "politico",
+        "name": "Politico"
+      },
+      "author": null,
+      "title": "Ramaswamy doubles down on calling Pressley part of 'modern KKK' - POLITICO",
+      "description": "The Massachusetts Democrat said Saturday that \"a line was crossed\" by the GOP presidential contender.",
+      "url": "https://www.politico.com/news/2023/08/27/ramaswamy-pressley-modern-kkk-00113122",
+      "urlToImage": "https://static.politico.com/3b/c2/0c10095a4a13ba9f05266c5cf207/election-2024-debate-57229.jpg",
+      "publishedAt": "2023-08-27T13:53:09Z",
+      "content": "During his Friday appearance in Iowa, Ramaswamy accused Pressley, the first Black woman elected to represent Massachusetts in Congress, of racism and compared her to modern grand wizards of the Ku Kl… [+1089 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Reuters",
+      "title": "Credit Suisse posted $4 billion loss in second quarter, Sonntagszeitung reports - Reuters",
+      "description": "Credit Suisse, which is now a subsidiary of UBS <a href=\"https://www.reuters.com/markets/companies/UBSG.S\" target=\"_blank\">(UBSG.S)</a>, posted a loss of 3.5 billion Swiss francs ($4.0 billion) in the second quarter of 2023, according to a report in the Sonnt…",
+      "url": "https://www.reuters.com/business/finance/credit-suisse-posted-4-billion-loss-2q-sonntagszeitung-2023-08-27/",
+      "urlToImage": "https://www.reuters.com/resizer/rGeyn-uNNnPE9VB7_j5BnKjTEeE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CE5JKFOSLJIATAXVUU6W4XKS3E.jpg",
+      "publishedAt": "2023-08-27T12:39:00Z",
+      "content": "BERLIN, Aug 27 (Reuters) - Credit Suisse, which is now a subsidiary of UBS (UBSG.S), posted a loss of 3.5 billion Swiss francs ($4.0 billion) in the second quarter of 2023, according to a report in t… [+534 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Tierney Sneed, Jeremy Herb",
+      "title": "The Fulton County charges against Donald Trump face a major test Monday. Here's what to watch for - CNN",
+      "description": "Fulton County District Attorney Fani Willis will lay out the first details of her sprawling anti-racketeering case against former President Donald Trump, his White House chief of staff Mark Meadows and 17 other co-defendants at a federal court hearing on Mond…",
+      "url": "https://www.cnn.com/2023/08/27/politics/trump-meadows-georgia-hearing/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230816164804-mark-meadows-donald-trump-split.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-08-27T12:31:00Z",
+      "content": "Fulton County District Attorney Fani Willis will lay out the first details of her sprawling anti-racketeering case against former President Donald Trump, his White House chief of staff Mark Meadows a… [+7387 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Cut"
+      },
+      "author": "Claire Comstock-Gay",
+      "title": "Weekly Horoscopes for the Week of August 28 by the Cut - The Cut",
+      "description": "A list of all the zodiac signs (Aries, Taurus, Gemini, Cancer, Leo, Virgo, Libra, Scorpio, Sagittarius, Capricorn, Aquarius, Pisces) and their weekly horoscopes, by the Cut’s astrologer, Madame Clairevoyant.",
+      "url": "http://www.thecut.com/2023/08/weekly-horoscopes-for-the-week-of-august-28-by-the-cut.html",
+      "urlToImage": "https://pyxis.nymag.com/v1/imgs/e79/a39/d9baa894e18beb0262684c847be9462553-23-virgo-Ava-DuVernay-weekly.1x.rsocial.w1200.jpg",
+      "publishedAt": "2023-08-27T12:30:23Z",
+      "content": "On Sunday, Mars enters Libra, where it will stay until mid-October. During this time, expect to feel even more indecisive than usual, wavering between multiple options or struggling to commit to a pl… [+6900 chars]"
+    }
+  ]
+}
